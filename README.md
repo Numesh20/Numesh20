@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=850&lines=Graphic+Designer;Photographer+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=10B981&center=true&vCenter=true&width=850&lines=Graphic+Designer;Photographer+%7C+UI+%7C+UX+Designer;Welcome+to+my+GitHub+Profile+!" />
 </p>
 
 
