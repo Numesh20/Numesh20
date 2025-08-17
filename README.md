@@ -10,7 +10,8 @@
 
 ---
 
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=numesh20&label=Profile%20views&color=0e75b6&style=flat" alt="numesh20" /> </p>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=numesh20&label=Profile%20views&color=0e75b6&style=flat" alt="numesh20" /> <img src="https://img.shields.io/github/followers/Numesh20?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ### About Me
 - 🌱 I’m currently learning **Information System Degree**
