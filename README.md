@@ -1,3 +1,7 @@
+<img src="https://i.pinimg.com/736x/4b/4c/5b/4b4c5baf697d684ccbd37cf4e437bd89.jpg" alt="Myphoto.jpg" width="300" height="200">
+
+
+
 <h1 align="center">Hi 👋, I'm Numesh</h1>
 <h3 align="center">🎓 Studying a degree in Information Systems at the Sabaragamuwa University of Sri Lanka.</h3>
 
