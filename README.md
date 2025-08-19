@@ -22,8 +22,11 @@
 
 
 ### About Me
-- 🌱 I’m currently Following **Information System Degree**
 
+- 🔭 I’m currently Following **Bsc (hons) Information System Degree**
+
+- 🌱 I’m currently learning **Python, React, UI | UX , Graphic Design**
+  
 - 👨‍💻 All of my projects are available at [https://trent9949.hocoos.com/](https://trent9949.hocoos.com/) 
 
 - 📫 How to reach me **numeshravindra2003@gmail.com**
