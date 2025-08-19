@@ -22,7 +22,7 @@
 
 
 ### About Me
-- 🌱 I’m currently learning **Information System Degree**
+- 🌱 I’m currently Following **Information System Degree**
 
 - 👨‍💻 All of my projects are available at [https://trent9949.hocoos.com/](https://trent9949.hocoos.com/) 
 
