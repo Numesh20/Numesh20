@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Python, React, UI | UX , Graphic Design**
   
-- 👨‍💻 All of my projects are available at [https://trent9949.hocoos.com/](https://trent9949.hocoos.com/) 
+- 👨‍💻 All of my projects are available at (https://numesh20.github.io/numesh-portfolio/) 
 
 - 📫 How to reach me **numeshravindra2003@gmail.com**
 
